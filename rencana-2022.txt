@@ -2,3 +2,4 @@ Rencana 2022
 - belajar membuat website dengan Codeignter
 - belajar Laravel
 - belajar mobile
+- belajar javascript
