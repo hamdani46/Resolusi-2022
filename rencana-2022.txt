@@ -1,3 +1,4 @@
 Rencana 2022
-- membuat website dengan Codeignter
+- belajar membuat website dengan Codeignter
 - belajar Laravel
+- belajar mobile
